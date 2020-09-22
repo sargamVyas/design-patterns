@@ -1,0 +1,2 @@
+module decoratorPattern_Starbucks {
+}
