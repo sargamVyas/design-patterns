@@ -1,0 +1,2 @@
+module strategyPattern_DuckExample {
+}
