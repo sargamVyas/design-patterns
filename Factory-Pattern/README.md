@@ -8,6 +8,6 @@ Factory method let a class defer instantiation to the subclasses.
 The Dependency Inversion Principle guides us to avoid dependencies on concrete types and to strive for abstractions. 
 
 ## Example:
-In this example we are creating a Pizza shop which has different types of pizza that varies with different Regions.
+Create a Pizza shop where owner will be able to open different branches in various regions and create variety of pizzas based on region.
 
 ## Class Diagram: 
