@@ -1,4 +1,4 @@
-This contains the implementation for the Factory design pattern
+This contains the implementation for the Strategy design pattern
 
 ## Strategy Pattern:
 Defines a family of algorithms, encapsulates each one and make them interchangeable.
