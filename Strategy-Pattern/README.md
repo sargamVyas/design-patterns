@@ -12,4 +12,4 @@ It lets the algorithm vary independently from clients that use it.
 ## Example:
 Create SimUDuck App that show large varieties of duck displaying different behaviours like swimming, quacking, flying etc.
 
-## Class Diagram: 
+
