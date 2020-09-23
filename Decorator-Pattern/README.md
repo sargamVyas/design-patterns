@@ -1,4 +1,4 @@
-This contains the implementation for the Decoratory design pattern
+This contains the implementation for the Decorator design pattern
 
 ## Decorator Pattern
 Attach additional responsibilities to an object dynamically.
@@ -10,4 +10,3 @@ Classes should be open for extension but closed for modifications.
 ## Example:
 Create a starBuzz coffee where the client will be able to order beverage with their favorite condiments.
 
-## Class Diagram: 
