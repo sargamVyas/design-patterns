@@ -10,4 +10,4 @@ The Dependency Inversion Principle guides us to avoid dependencies on concrete t
 ## Example:
 Create a Pizza shop where owner will be able to open different branches in various regions and create variety of pizzas based on region.
 
-## Class Diagram: 
+
